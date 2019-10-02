@@ -1,10 +1,10 @@
 # 실행 방법
 ```
 cd /path/to/models/official/transformer
-```
+
 # Ensure that PYTHONPATH is correctly defined as described in
 # https://github.com/tensorflow/models/tree/master/official#requirements
-``` 
+
 export PYTHONPATH="$PYTHONPATH:/path/to/models"
 ```
 # Export variables
